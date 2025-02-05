@@ -2,7 +2,6 @@
 before running this application please create an app directory in the root of this repo. Once done your repo should look like this:
 
 * app
-* .env
 * .gitignore
 * docker-compose.yml
 * Dockerfile
